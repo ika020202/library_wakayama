@@ -6,7 +6,7 @@ import 'package:library_books_search/settingPages/UpdateSchedule.dart';
 import 'package:library_books_search/settingPages/WebAPILicensePage.dart';
 import 'package:library_books_search/view/MainViewModel.dart';
 import 'package:library_books_search/view/MainViewModelData.dart';
-import 'file:///C:/Users/atwork/AndroidStudioProjects/library_books_search/lib/SearchLibrary.dart';
+import 'SearchLibrary.dart';
 import "MainBooksSearch.dart";
 import "History.dart";
 
